@@ -1,8 +1,3 @@
-// ─── App.jsx ─────────────────────────────────────────────────────────────────
-// Root component of the Weather App.
-// Manages the API call, loading state, error state, and weather data state.
-// ─────────────────────────────────────────────────────────────────────────────
-
 import { useState } from "react";
 import SearchBar from "./components/SearchBar";
 import WeatherCard from "./components/WeatherCard";
